@@ -1,0 +1,11 @@
+{
+  "name": "CodeNameOptional",
+  "version": "0.0.1",
+  "description": "A game made for mobile in HTML5",
+  "main": "app.js",
+  "author": "Brendan Hansen",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
