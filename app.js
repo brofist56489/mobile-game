@@ -1,6 +1,7 @@
 var app = require("http").createServer(handler);
 var fs = require("fs")
 
+console.log("Running on port: " + (process.env.PORT || 8080));
 app.listen(process.env.PORT || 8080);
 
 function handler(req, res) {
