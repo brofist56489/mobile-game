@@ -22,7 +22,7 @@ window.onload = (function() {
 		canvas.height = 240 * 3;
 		ctx.fillStyle = "black";
 		ctx.fillRect(0, 0, 240 * 2, 240 * 3);
-		ctx.fillStyle = "red";
+		ctx.fillStyle = "blue";
 		ctx.fillRect(20, 20, 240 * 2-40, 240 * 3-40);
 	}
 })();
