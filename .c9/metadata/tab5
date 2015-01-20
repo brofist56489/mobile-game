@@ -1,0 +1,1 @@
+{"filter":false,"title":"Run Game - Stopped","tooltip":"Run Game - Stopped","undoManager":{"mark":0,"position":-1,"stack":[]},"output":{"id":"output309920","width":1047,"height":127,"scrollTop":-1,"config":{"debug":true,"command":"node app.js","runner":"Shell command","name":"Run Game"}},"timestamp":1421682775897,"hash":"da39a3ee5e6b4b0d3255bfef95601890afd80709"}
